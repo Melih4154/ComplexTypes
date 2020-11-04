@@ -1,0 +1,14 @@
+C:\Users\123\source\repos\ComplexType.Business\ComlexType.Business\bin\Debug\ComlexType.Business.dll
+C:\Users\123\source\repos\ComplexType.Business\ComlexType.Business\bin\Debug\ComlexType.Business.pdb
+C:\Users\123\source\repos\ComplexType.Business\ComlexType.Business\bin\Debug\ComplexType.DataAccess.dll
+C:\Users\123\source\repos\ComplexType.Business\ComlexType.Business\bin\Debug\ComplexType.Entity.dll
+C:\Users\123\source\repos\ComplexType.Business\ComlexType.Business\bin\Debug\EntityFramework.dll
+C:\Users\123\source\repos\ComplexType.Business\ComlexType.Business\bin\Debug\ComplexType.DataAccess.pdb
+C:\Users\123\source\repos\ComplexType.Business\ComlexType.Business\bin\Debug\ComplexType.DataAccess.dll.config
+C:\Users\123\source\repos\ComplexType.Business\ComlexType.Business\bin\Debug\ComplexType.Entity.pdb
+C:\Users\123\source\repos\ComplexType.Business\ComlexType.Business\bin\Debug\EntityFramework.xml
+C:\Users\123\source\repos\ComplexType.Business\ComlexType.Business\obj\Debug\ComplexType.Business.csprojAssemblyReference.cache
+C:\Users\123\source\repos\ComplexType.Business\ComlexType.Business\obj\Debug\ComplexType.Business.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\ComplexType.Business\ComlexType.Business\obj\Debug\ComplexType.Business.csproj.CopyComplete
+C:\Users\123\source\repos\ComplexType.Business\ComlexType.Business\obj\Debug\ComlexType.Business.dll
+C:\Users\123\source\repos\ComplexType.Business\ComlexType.Business\obj\Debug\ComlexType.Business.pdb

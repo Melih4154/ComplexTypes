@@ -1,0 +1,6 @@
+C:\Users\123\source\repos\ComplexType.Business\ComplexType.Entity\bin\Debug\ComplexType.Entity.dll
+C:\Users\123\source\repos\ComplexType.Business\ComplexType.Entity\bin\Debug\ComplexType.Entity.pdb
+C:\Users\123\source\repos\ComplexType.Business\ComplexType.Entity\obj\Debug\ComplexType.Entity.csprojAssemblyReference.cache
+C:\Users\123\source\repos\ComplexType.Business\ComplexType.Entity\obj\Debug\ComplexType.Entity.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\ComplexType.Business\ComplexType.Entity\obj\Debug\ComplexType.Entity.dll
+C:\Users\123\source\repos\ComplexType.Business\ComplexType.Entity\obj\Debug\ComplexType.Entity.pdb
